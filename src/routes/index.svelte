@@ -1,5 +1,6 @@
-<script>
-</script>
+<svelte:head>
+  <title>votekian.org</title>
+</svelte:head>
 
 <section>
   <p>

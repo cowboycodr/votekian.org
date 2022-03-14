@@ -1,3 +1,7 @@
+<svelte:head>
+  <title>votekian.org | why</title>
+</svelte:head>
+
 <section>
   <ul>
     <li>
