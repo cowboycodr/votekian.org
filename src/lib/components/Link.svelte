@@ -11,10 +11,12 @@
 
 <style>
   a {
+    padding: 1px;
     text-decoration: none;
-    color: var(--secondary-color);
+    color: var(--primary-color);
+    background-color: var(--secondary-color);
 
-    background-image: linear-gradient(var(--secondary-color), var(--secondary-color));
+    background-image: linear-gradient(var(--primary-color), var(--primary-color));
     background-size: 0% 100%;
     background-repeat: no-repeat;
     background-position: left bottom;
@@ -25,8 +27,9 @@
 
   a:hover {
     background-size: 100% 100%;
-    color: var(--primary-color);
+    color: var(--secondary-color);
 
-    transition: 400ms;
+    transition: color 400ms;
+    transition: background-size 400ms;
   } 
 </style>

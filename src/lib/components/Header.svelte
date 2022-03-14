@@ -93,4 +93,8 @@
     min-width: 50px;
     max-width: 100px;
   }
+
+  :global(.grouped * + *) {
+    margin-left: 5px;
+  }
 </style>

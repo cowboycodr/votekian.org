@@ -10,15 +10,16 @@
     <li>
       i humbly support ye
     </li>
+    <li>
+      blah blah blah...
+    </li>
   </ul>
   <ul>
     <li>
       i'm not ellen
     </li>
     <li>
-      it's bigger than black and white 
-      <span class="white-emoji">✊🏻</span>
-      but we gotta start somewhere with kian mckenna
+      i will bring the '70's SMEAST cartel back to life
     </li>
   </ul>
 </section>
