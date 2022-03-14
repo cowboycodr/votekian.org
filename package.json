@@ -5,17 +5,15 @@
     "dev": "svelte-kit dev",
     "build": "svelte-kit build",
     "package": "svelte-kit package",
-    "preview": "svelte-kit preview",
-    "prepare": "svelte-kit sync"
+    "preview": "svelte-kit preview"
   },
   "devDependencies": {
-    "@sveltejs/adapter-auto": "next",
     "@sveltejs/adapter-cloudflare": "0.0.1",
-    "@sveltejs/adapter-static": "^1.0.0-next.29",
+    "@sveltejs/adapter-static": "0.0.17",
     "@sveltejs/kit": "^1.0.0-next.291",
-    "svelte": "^3.44.0",
+    "svelte": "*",
     "svelte-dark-mode": "^2.1.0",
-    "svelte-toggle": "^3.1.0"
+    "svelte-toggle": "*"
   },
   "type": "module",
   "dependencies": {}
