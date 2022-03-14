@@ -1,3 +1,7 @@
+<script>
+  import Censored from "$lib/components/Censored.svelte";
+</script>
+
 <svelte:head>
   <title>votekian.org | why</title>
 </svelte:head>
@@ -5,7 +9,7 @@
 <section>
   <ul>
     <li>
-      mama mckenna ain't raise no bitch
+      mama mckenna ain't raise no <Censored content="bitch" />
     </li>
     <li>
       i humbly support ye
