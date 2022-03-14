@@ -27,7 +27,7 @@
 
     line-height: 75%;
 
-    background-image: url(images/flag.jpg);
+    background-image: url(/images/flag.jpg);
     background-repeat: no-repeat;
     background-clip: text;
     -webkit-background-clip: text;
