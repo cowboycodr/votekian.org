@@ -26,7 +26,7 @@
     for '23 class president
   </p>
 </section>
-<section class="no-border">
+<section>
   <h1 class="name">
     ABOUT KIAN
   </h1>
@@ -39,6 +39,25 @@
     </li>
     <li>
       <Link href="/why">CLICK HERE FOR MORE INFORMATION 🎯</Link>
+    </li>
+  </ul>
+</section>
+<section>
+  <h1 class="name">
+    ACCOMPLISH-
+  </h1>
+  <h1 class="name">
+    MENTS
+  </h1>
+  <ul>
+    <li>
+      100+ FORTNITE VICTORY ROYALES
+    </li>
+    <li>
+      SUCCESSFULLY BIRTHED AS NOT ELLEN
+    </li>
+    <li>
+      3 RECOVERIES FROM TRAMATIC BRAIN DAMAGE
     </li>
   </ul>
 </section>
