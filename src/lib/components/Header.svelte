@@ -83,6 +83,8 @@
 
     background-color: var(--primary-color);
     border-bottom: 1px solid var(--accent-color);
+
+    z-index: 9999;
   }
 
   .grouped {

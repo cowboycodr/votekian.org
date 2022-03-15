@@ -23,7 +23,7 @@
       i'm not ellen
     </li>
     <li>
-      i will bring the '70's SMEAST cartel back to life
+      ^^^
     </li>
   </ul>
 </section>
@@ -39,10 +39,5 @@
   section li {
     margin: 10px 0;
     max-width: 300px;
-  }
-
-  span.white-emoji {
-    font-size: 1.3em;
-    background-color: black;
   }
 </style>

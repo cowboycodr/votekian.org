@@ -14,17 +14,17 @@
 </main>
 
 <style>
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500;700&family=Rubik:wght@300;400&display=swap');
   :global(*) {
     font-family: "Roboto", sans-serif;
-    font-weight: 500;
     color: var(--secondary-color);
 
-    transition: color 400ms;
     transition: background-color 400ms;
   }
 
   :global(body) {
     margin: 0;
+    background-color: var(--primary-color);
   }
 
   :global(:root) {
