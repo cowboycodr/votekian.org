@@ -17,6 +17,10 @@
 
     overflow-wrap: break-word;
 
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    hyphens: auto;
+
     /* background-image: url(/images/flag.jpg);
     background-repeat: no-repeat;
     background-clip: text;

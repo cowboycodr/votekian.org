@@ -12,7 +12,7 @@
     vote
   </p>
   <Heading tag="name">
-    KIAN<br/>MCKENNA
+    KIAN<br/>MCK&shy;ENNA
   </Heading>
   <span 
     class="pronouns"
@@ -40,7 +40,7 @@
 </section>
 <section>
   <Heading tag="accomplishments">
-    ACCOMPLISHMENTS
+    ACCOMP&shy;LISH&shy;MENTS
   </Heading>
   <ul>
     <li>
