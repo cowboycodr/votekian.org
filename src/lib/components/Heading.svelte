@@ -15,8 +15,9 @@
 
     line-height: 75%;
 
-    /* overflow-wrap: break-word;
-    background-image: url(/images/flag.jpg);
+    overflow-wrap: break-word;
+
+    /* background-image: url(/images/flag.jpg);
     background-repeat: no-repeat;
     background-clip: text;
     background-size: 100%;
