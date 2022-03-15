@@ -23,13 +23,15 @@
 
     transition: color 400ms;
     transition: background-size 400ms;
+
+    filter: drop-shadow(2px 0px 1px #FD3E3E) drop-shadow(-2px -2px 1px #4DE8F4);
   }
 
   a:hover {
     background-size: 100% 100%;
     color: var(--secondary-color);
+    filter: drop-shadow(-2px -2px 3px #FD3E3E) drop-shadow(2px 0px 3px #4DE8F4);
 
-    transition: color 400ms;
-    transition: background-size 400ms;
+    transition: 400ms;
   } 
 </style>
