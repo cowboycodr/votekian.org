@@ -17,10 +17,6 @@
     document.body.className = theme;
     
     toggled = theme == "dark" ? true : false;
-
-    setInterval(() => {
-      toggled = !toggled;
-    }, 50)
   })
 
   function switchColors(theme) {
