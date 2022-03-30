@@ -25,6 +25,9 @@
     <li>
       ^^^
     </li>
+    <li>
+      it's bigger than <Censored content="black" /> and white.
+    </li>
   </ul>
 </section>
 
