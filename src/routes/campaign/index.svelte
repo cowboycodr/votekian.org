@@ -97,9 +97,4 @@
   ul li {
     margin: 4px 0;
   }
-
-  p.plan__paragraph {
-    margin-left: 1.5em;
-    font-size: 1em;
-  }
 </style>

@@ -8,7 +8,7 @@
     <Heading>INGRID BLAKETER</Heading>
     <p>for '23 class president</p>
     <div style="font-size: .9rem; text-align: center;">
-      <Link href="/campaign/why">Why I dropped out of the running?</Link>
+      <Link href="/campaign/why_im_not_running">Why I dropped out of the running?</Link>
       <Link href="/campaign">Old website</Link>
     </div>
 </div>

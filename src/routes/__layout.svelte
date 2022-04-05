@@ -31,6 +31,11 @@
     border-bottom: 1px solid var(--accent-color);
   }
 
+  :global(p.plan__paragraph) {
+    margin-left: 1.5em;
+    font-size: 1em;
+  }
+
   .container {
     max-width: var(--max-width);
     min-height: 100vh;
