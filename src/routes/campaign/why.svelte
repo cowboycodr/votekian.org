@@ -1,5 +1,5 @@
 <script>
-  import Censored from "$lib/components/Censored.svelte";
+  import Censored from "$lib/campaign/components/Censored.svelte";
 </script>
 
 <svelte:head>

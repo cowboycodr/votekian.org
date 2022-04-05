@@ -1,16 +1,5 @@
-
-<script>
-  // votekian.org default look
-  import Header from "$lib/components/Header.svelte";
-  import Footer from "$lib/components/Footer.svelte";
-</script>
-
 <main>
-  <Header />
-  <div class="container">
     <slot></slot>
-  </div>
-  <Footer />
 </main>
 
 <style>
@@ -34,12 +23,6 @@
   --primary-color: #ffffff;
   --secondary-color: #000;
   --accent-color: #969696;
-  }
-
-  :global(.dark) {
-    --primary-color: #000;
-    --secondary-color: #fff;
-    --accent-color: #969696;
   }
 
   :global(section) {

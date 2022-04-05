@@ -51,10 +51,10 @@
 >
   <div class="header">
     <span class="home">
-      <Link>votekian.org</Link>
+      <Link href="/campaign">votekian.org</Link>
     </span>
     <span class="grouped">
-      <Link href="/why">why</Link>
+      <Link href="/campaign/why">why</Link>
       <Toggle 
         small 
         hideLabel
