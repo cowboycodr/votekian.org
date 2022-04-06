@@ -5,7 +5,7 @@
 
 <div class="container">
     <p>vote</p>
-    <Heading>IN&shy;GRID BLAK&shy;ETER</Heading>
+    <Heading>CARO&shy;LINE MAR&shy;TUCCI</Heading>
     <p>for '23 class president</p>
     <div style="font-size: .9rem; text-align: center;">
       <Link href="/campaign/why_im_not_running">Why I dropped out of the running?</Link>
