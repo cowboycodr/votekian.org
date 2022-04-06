@@ -6,7 +6,7 @@
 
 <style>
   h1 {
-    font-size: 5rem;
+    font-size: 4rem;
     font-weight: 700;
 
     margin-top: 0px;
