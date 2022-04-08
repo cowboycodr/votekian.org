@@ -1,16 +1,17 @@
 <script>
   import Heading from "$lib/components/Heading.svelte";
-  import Link from "$lib/components/Link.svelte";
+
+  let message = '';
+
+  setInterval(function() {
+    message += "sdijfsdlfsmdfklsdfmsdljkfsmdfksdfslkdjnfsdfslkjdfnskljdfnsdkjfnsdlknskldjfnksjdfnsdfnslkdfsnldf" + 1;
+    message + 1
+  }, 1)
 </script>
 
 <div class="container">
-    <p>vote</p>
     <div style="text-align: center;">
-      <Heading tag="endorsement">CARO&shy;LINE MART&shy;UCCI</Heading>
-    </div>
-    <p>for '23 class president</p>
-    <div style="font-size: .9rem; text-align: center;">
-      <Link href="/campaign">Old website</Link>
+      <Heading tag="endorsement">LEAVE</Heading>
     </div>
 </div>
 
